@@ -1,7 +1,7 @@
-# CS7650
+# Classification of COVID-19 and political misinformation on social media
 
 This is the code base for "Classification of COVID-19 and political misinformation on social
-media", the final project of CS7650.
+media", the final project of CS7650 Natural Language at Georgia Tech.
 
 ## Folder structure
 
